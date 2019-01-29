@@ -8,14 +8,14 @@
 		<version>2.1.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.jonorsky</groupId>
+	<groupId>com.hello</groupId>
 	<artifactId>Spring-Boot-Mysql</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Spring-Boot-Mysql</name>
 	<description>Accessing data with MySQL</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 
 	<dependencies>
